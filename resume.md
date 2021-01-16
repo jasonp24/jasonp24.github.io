@@ -22,6 +22,10 @@ A leader with 10+ years of experience in the customer service industry. Multi-li
 ## C21 at UW: The Center for 21st Century Liberal Learning (Seattle, WA)
 
 * The Center for 21st Century Liberal Learning combines the University of Washington's research strengths with our students' interests in creating real-world contributions.
+<ul>
+  <li>test</li>
+  <li>test2</li>
+</ul>
 
 **Project Management Intern (June 2020 - August 2020)**
 
