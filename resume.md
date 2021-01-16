@@ -39,8 +39,9 @@ implementation
 
 ## UW Children's Center at West Campus (Seattle, WA)
 
-* Provides early childhood programs based on the educational philosophies of Maria Montessori and Magda Gerber.
-
+<blockquote>
+  <p>Provides early childhood programs based on the educational philosophies of Maria Montessori and Magda Gerber.</p>
+</blockquote>
 
 **Infant Teacher Assistant (May 2019 - August 2019)**
 
