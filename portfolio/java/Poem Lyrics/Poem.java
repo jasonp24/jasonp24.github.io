@@ -1,8 +1,6 @@
 // Jason Park
 // 4/7/2020
 // CSE 142
-// TA: 
-// Assignment #1
 
 /* This program will output a cumulative song in which
   successive verses build on previous verses */
