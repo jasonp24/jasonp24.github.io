@@ -1,7 +1,5 @@
 // Jason Park
 // 4/14/2020
-// CSE 142
-// TA: 
 /* This program will produce a rocket ship using a combination of 
    static methods, nested for loops with print/prinln statements, and
    a class constant. */
