@@ -1,3 +1,5 @@
+/* This program ranks the popularity of baby names in a line graph*/
+
 import java.io.*;     // for File
 import java.util.*;   // for Scanner
 import java.awt.*;    // for Drawing Panel
